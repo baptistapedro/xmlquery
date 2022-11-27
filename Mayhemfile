@@ -1,0 +1,5 @@
+project: xmlquery
+target: xmlquery
+
+cmds:
+  - cmd: /fuzz_parse
